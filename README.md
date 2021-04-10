@@ -8,3 +8,8 @@ I am interested in continuing to pursue the Product Management career pathway, w
 
 ## Why am I interested in FinTech as a career path?
 FinTech interests me because I feel that there is a large opportunity for growth and inclusion of novel technologies, especially in the decentralized finance space. I also enjoy the large amounts of data available for machine learning applications.
+
+### [Code](https://github.com/tmitrevski/AboutMe/tree/main/code)
+### [Data](https://github.com/tmitrevski/AboutMe/tree/main/data)
+### [Images](https://github.com/tmitrevski/AboutMe/tree/main/images)
+### [References](https://github.com/tmitrevski/AboutMe/tree/main/references)
