@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-Optimism was founded in 2019 by Karl Floersch along with Jinglan Wang and Kevin Ho, stemming out of the research group called Plasma. The idea behind the company is to provide better scaling solutions on top of the existing Ethereum blockchain. This stemmed from the existing problems trying to improve the sped and scaling of Ethereum without reducing the security of the chain and while keeping any solution as decentralized as possible. The company has gone through a 3.5 million dollar seed round of funding in 2020 provided by Paradigm and IDEO CoLab Ventures as well as a 25 million dollar Series A round of funding in 2021 provided by Andreessen Horowitz and bringing Joshua Stein into the company.
+Optimism was founded in 2019 by Karl Floersch along with Jinglan Wang and Kevin Ho, evolving out of the research group called Plasma. The idea behind the company is to provide better scaling solutions on top of the existing Ethereum blockchain. This stemmed from the existing problems trying to improve the speed and scaling of Ethereum without reducing the security of the chain and while keeping any solution as decentralized as possible. The company has gone through a 3.5 million dollar seed round of funding in 2020 provided by Paradigm and IDEO CoLab Ventures as well as a 25 million dollar Series A round of funding in 2021 provided by Andreessen Horowitz that brought Joshua Stein into the company.
 
 ## Business Activities
 
