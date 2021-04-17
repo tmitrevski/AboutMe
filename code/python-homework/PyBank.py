@@ -1,6 +1,6 @@
 import pandas as pd
 
-budget_data=pd.read_csv('~/Projects/public/resources/budget_data.csv', sep=',') #Read in the file from my local directory
+budget_data=pd.read_csv('/Users/tmitrevski/Projects/public/code/python-homework/budget_data.csv', sep=',') #Read in the file from my local directory
 
 months = len(budget_data.index) # Number of months is equal to the length of the number of indicies, assuming no date duplicates
 total = budget_data['Profit/Losses'].sum() # Total is just the sum of all Profits and Losses

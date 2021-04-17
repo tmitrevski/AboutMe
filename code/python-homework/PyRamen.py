@@ -6,8 +6,8 @@ import csv
 from pathlib import Path
 
 # @TODO: Set file paths for menu_data.csv and sales_data.csv
-menu_filepath = str(Path.home())+'/Projects/public/resources/menu_data.csv'
-sales_filepath = str(Path.home())+'/Projects/public/resources/sales_data.csv'
+menu_filepath = str(Path.home())+'/Projects/public/code/python-homework/menu_data.csv'
+sales_filepath = str(Path.home())+'/Projects/public/code/python-homework/sales_data.csv'
 
 # @TODO: Initialize list objects to hold our menu and sales data
 menu = []
